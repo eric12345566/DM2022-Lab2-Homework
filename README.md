@@ -3,8 +3,11 @@ Homework 2 for ISA5810
 
 ## Author info
 Name: 施冠彰
+
 Student ID: 111062572
+
 GitHub ID: eric12345566
+
 Kaggle name: ericshih
 
 ## Usage
